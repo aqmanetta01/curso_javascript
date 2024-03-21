@@ -23,8 +23,4 @@ process.stdin.on('data', function(data) {
         process.stdin.pause();
     }
 });
-//console.log('resultado: ', soma_recursiva(100));
-//console.log('resultado: ', soma_recursiva(99));
-//console.log('resultado: ', soma_recursiva(101));
-//console.log('resultado: ', soma_recursiva(1000));
 
