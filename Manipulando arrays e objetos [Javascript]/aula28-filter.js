@@ -35,7 +35,6 @@ const lista = [
     },
 ]
 
-
 const filtrarPessoa = (pessoa) => pessoa.idade > 30;
 
 const listaFiltrada = lista.filter(filtrarPessoa);
