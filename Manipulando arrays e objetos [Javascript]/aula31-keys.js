@@ -58,6 +58,8 @@ console.log(chaves);
 
 //console.log(Object.keys(lista[0]));
 
-const listaDeVolta = chaves.map((chave) => ({ nome: chave, idade: pessoas[chave].idade}));
+const listaDeVolta = chaves.map((chave) => ({ 
+    nome: chave, 
+    idade: pessoas[chave].idade}));
 
 console.log(listaDeVolta);
