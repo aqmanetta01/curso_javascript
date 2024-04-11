@@ -28,6 +28,6 @@ class Usuario {
 const usuario = new Usuario('emails', 'senhas', 'nomes');
 usuario.senha = 'nova senha';
 
-console.log(usuario.senha);
+console.log(usuario);
 
 
