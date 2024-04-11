@@ -7,8 +7,6 @@ const propriedadePadrao = (valorInicial) => ({
 })
 
 class Usuario {
-    senha;
-    email;
 
     constructor(email,senha,nome) {
         Object.defineProperties(this,{
