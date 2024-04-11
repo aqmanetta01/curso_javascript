@@ -21,4 +21,3 @@ const usuario = new Usuario('emails', 'senhas', 'nomes');
 usuario.nome = 'novo nome';
 
 console.log(usuario);
-
