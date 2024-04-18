@@ -1,1 +1,1 @@
-alert('Carregou');
+alert('Carregou!');
