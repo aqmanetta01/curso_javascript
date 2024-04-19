@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+    margin: 0px;
+}
+
+
+main {
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+
+    margin-left: 10vw;
+    margin-top: 2vw;
+    margin-bottom: 20px
+}
+
+div {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+}
+
+.div2 {
+    margin: 20px 10px 5px 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.div3 {
+    margin: 20px auto;
+}
+
